@@ -1,4 +1,4 @@
-import os
+"""import os
 import fitz  # PyMuPDF
 import csv
 import datetime
@@ -163,4 +163,4 @@ Experience with React.js is a plus.
     for d in shortlisted:
         print(f"{d['Filename']} - Score: {d['Score']} - Reason: {d['Reason']}")
 
-    export_to_csv(parsed_data)
+    export_to_csv(parsed_data)"""
